@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://david-bennet.github.io
+title: YAB
+email: david.bennet@xtra.co.nz
+author: David Bennet
+description: Yet Another Blog
+paginate: 3
+google_analytics: 
